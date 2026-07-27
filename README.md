@@ -2,7 +2,7 @@ We have created a free tool to convert PrestaShop data into Shopify-compatible f
 You can use this tool to convert your product, customer, and order data into files that are ready to import into Shopify.
 Once converted, you can simply upload the new data files to Shopify.
 
-Please see the detailed instructions at :
+Please see the detailed instructions at : **https://firstwireapp.com/blog/prestashop-to-shopify-migration-free-tool/**
 
 See the code and guide below.
 
